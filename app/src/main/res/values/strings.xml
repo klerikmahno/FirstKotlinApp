@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FirstKotlinApp</string>
+    <string name="kot_desc">kot_image</string>
+    <string name="button_tel">Телефоны</string>
+    <string name="button_text">Заметки</string>
+    <string name="button_test">Тестовая</string>
+    <string name="nameApp1">Тест</string>
+    <string name="nameApp2">App</string>
+    <string name="logo_tel_desc">logo_tel</string>
+    <string name="plashka_desc">plashka_s_ya</string>
+
+</resources>
